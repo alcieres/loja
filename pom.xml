@@ -53,7 +53,7 @@
                             <transformers>
                                 <transformer
                                     implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
-                                    <mainClass>Loja</mainClass>
+                                    <mainClass>loja.Loja</mainClass>
                                 </transformer>
                             </transformers>
                         </configuration>
